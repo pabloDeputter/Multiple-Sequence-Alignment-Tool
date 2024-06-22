@@ -1,0 +1,4 @@
+s1: ACTGCTA..
+s2: ACTG.....
+s3: ACTGCTAGG
+Alignment score: 35

@@ -1,0 +1,3 @@
+s1: TTAAGCGAA
+s2: TGATGAGAA
+Alignment score: 24

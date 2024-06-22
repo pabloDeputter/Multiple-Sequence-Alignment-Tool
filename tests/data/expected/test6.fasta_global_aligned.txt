@@ -1,0 +1,3 @@
+s1: ACTG
+s2: ..TG
+Alignment score: 2

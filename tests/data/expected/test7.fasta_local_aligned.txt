@@ -1,0 +1,6 @@
+s1: ATAG.T..TC
+s2: ATTG.T..TC
+s3: AATG.TT.TC
+s4: ATTG.TA.TC
+s5: ATTGATACTC
+Alignment score: 239

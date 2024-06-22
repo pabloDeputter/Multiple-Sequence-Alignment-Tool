@@ -1,0 +1,6 @@
+{
+  "match": 5,
+  "mismatch": -2,
+  "gap_penalty": -4,
+  "gap_gap_penalty": 0
+}

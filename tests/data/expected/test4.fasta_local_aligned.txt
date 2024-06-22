@@ -1,0 +1,4 @@
+s1: GTCCGT
+s2: GTCCGT
+s3: GTCCGT
+Alignment score: 90

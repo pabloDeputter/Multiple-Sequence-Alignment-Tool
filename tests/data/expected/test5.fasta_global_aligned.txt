@@ -1,0 +1,3 @@
+s1: TGTTTTTCTCATGCCCTCCCGCTCTGAAATTAATCCTATTTTTAACCTGTAGTTCACCTTCTTAAGCGAATAGGTGCCCTCACCCAAGCGGGAGACAGCATCATAGGGGTCTCTACATTA
+s2: TG........ATG.............A.....................G.A....A................................................................
+Alignment score: -399

@@ -1,0 +1,6 @@
+s1: .ATAGT.T.CTA.
+s2: .ATTGT.TCCGCT
+s3: TAATGTTTCCT..
+s4: AATTGTAT.CG..
+s5: AATTGA.TACTC.
+Alignment score: 163

@@ -1,0 +1,3 @@
+s1: TG
+s2: TG
+Alignment score: 10

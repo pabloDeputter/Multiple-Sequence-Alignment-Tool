@@ -1,0 +1,3 @@
+s1: ACTGCTA
+s2: ACTG...
+Alignment score: 8
